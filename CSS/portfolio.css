@@ -149,7 +149,7 @@ img {
 
 .modal {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%) scale(1);
   background-color: #ffffff;
@@ -1028,7 +1028,7 @@ img {
     width: 24px;
     height: 24px;
     bottom: 0;
-    right: 80px;
+    right: 90px;
     transform: translateY(-50%);
   }
   .form-container-input {
